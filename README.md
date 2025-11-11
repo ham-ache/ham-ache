@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="hlogoBig.png" />
+</p>
 
-<!--
-**ham-ache/ham-ache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h1 align="center">quick bio</h1>
+<p align="center">
+i am a russian coder, living in serbia.
+my favorite languages are Lua, GLSL, C.
+i create a lot of stuff for love2d, and not only.<br>
+as you have noticed, i speak english. i also speak russian and i understand serbian and i hate capital letters a lot.
+</p>
 
-Here are some ideas to get you started:
+## main released projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Scene Systems](https://github.com/ham-ache/ssys)
+
+---
+![hammix](hammix.png)
+
+---
