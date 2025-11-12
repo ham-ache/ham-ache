@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hlogoBig.png" />
+  <img src="hlogo2.png" />
 </p>
 
 ---
