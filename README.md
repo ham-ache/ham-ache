@@ -14,7 +14,3 @@ as you have noticed, i speak english. i also speak russian and i understand serb
 <a href="https://steamcommunity.com/id/hhm4/"><img src="https://img.shields.io/badge/steam-222244?logo=steam"></a>
 <a href="steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsoundcloud.com%2Fhamache-42406677"><img src="https://img.shields.io/badge/soundcloud-442222?logo=soundcloud"></a>
 </p>
-
-<!---
-![hammix](hammix.png) , my programming language
---->
